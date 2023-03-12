@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "imgSrc":"img",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$700",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":2,
+        "imgSrc":"img2",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$700",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":3,
+        "imgSrc":"img3",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$700",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":4,
+        "imgSrc":"img4",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$700",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":5,
+        "imgSrc":"img5",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$700",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":6,
+        "imgSrc":"img6",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$700",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":7,
+        "imgSrc":"img7",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$800",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":8,
+        "imgSrc":"img8",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$9000",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    },
+
+    {
+        "id":9,
+        "imgSrc":"img9",
+        "destTitle": "Bora Bora",
+        "location": "New Zealand",
+        "grade": "CULTURAL RELAX",
+        "fees" : "$8000",
+        "description": "The epitome of romance, Bora Bora is one of the best travel destinations for in the world. This place is know for its luxurious stays and adventure activities"
+    }
+
+]
