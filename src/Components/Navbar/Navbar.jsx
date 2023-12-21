@@ -1,9 +1,10 @@
-import React, {useState} from 'react' ;
+import React, {useState,useEffect} from 'react' ;
 import './navbar.css';
 
 import { MdTravelExplore } from 'react-icons/md'
 import { AiFillCloseCircle } from 'react-icons/ai'
 import { TbGridDots } from 'react-icons/tb'
+import { getListCategory } from '../../services/demo';
 
 const NavBar = () => {
 
@@ -13,7 +14,13 @@ const NavBar = () => {
     const showNav = () =>{
         setActive('navBar activeNavbar')
     }
-
+    useEffect(() => {
+        callApi()
+    },[])
+    const callApi = async () => {
+      const data = await getListCategory();
+      console.log(data, "data");
+    };
     // Function o toggle navBar
     const closeNav = () =>{
         setActive('navBar')

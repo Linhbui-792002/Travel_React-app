@@ -8,7 +8,6 @@
 }
 
 
-
 /* Colors and styling*/
 :root {
   --PrimaryColor: hsl(199, 100%, 33%);
@@ -91,7 +90,6 @@ input{
 body{
   background: var(--bodyColor);
 }
-
 
 /* MEDIA QUERIES */
 
